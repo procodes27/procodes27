@@ -19,10 +19,12 @@
 
 ---
 
-## 👨‍💻 About Me
-I am a **Full Stack Developer** passionate about creating web applications that are fast, responsive, and user-friendly.  
-I love **learning new technologies**, contributing to **open source**, and solving complex **coding challenges**.  
-Currently exploring **3D web experiences with Three.js** and building **interactive projects**.
+## 👨‍💻 About Me  
+- 🎓 B.Tech CSE Student (3rd Year)  
+- 💡 Passionate about **Web Development, AI, and Open Source**   
+- 🌱 Learning **React, Firebase & Three.js**  
+- 🎯 Goal for 2025: Contribute to **major open-source projects**  
+- ⚡ Fun fact: I love building clones of popular apps just for fun 😎  
 
 ---
 
