@@ -7,18 +7,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=procodes27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/procodes27?tab=followers">
-    <img src="https://img.shields.io/github/followers/procodes27?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/procodes27">
-    <img src="https://img.shields.io/github/stars/procodes27?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars" />
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me  
 - 🎓 B.Tech CSE Student (3rd Year)  
 - 💡 Passionate about **Web Development, AI, and Open Source**   
