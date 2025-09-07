@@ -19,17 +19,27 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/procodes27/procodes27/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+## 👨‍💻 About Me
+I am a **Full Stack Developer** passionate about creating web applications that are fast, responsive, and user-friendly.  
+I love **learning new technologies**, contributing to **open source**, and solving complex **coding challenges**.  
+Currently exploring **3D web experiences with Three.js** and building **interactive projects**.
 
 ---
 
 ## 💻 Tech Stack
 <p align="center">
+  <b>Frontend:</b> HTML, CSS, JavaScript, React, TailwindCSS  
+  <b>Backend:</b> Node.js, Firebase  
+  <b>Tools & Platforms:</b> GitHub, VSCode, Figma, Netlify  
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,firebase,github,vscode" />
 </p>
+
+---
+
+## 🔭 Currently Working On
+- Building a **Razorpay full frontend clone** using TailwindCSS.  
+- Exploring **3D portfolio websites with Three.js**.  
+- Learning **advanced Firebase features** for real-time apps.
 
 ---
 
@@ -44,6 +54,13 @@
   <a href="https://github.com/procodes27">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/procodes27/procodes27/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
