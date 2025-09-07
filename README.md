@@ -44,12 +44,14 @@
 
 ---
 
+
 ## 🌎 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/procodes27"><img src="https://skillicons.dev/icons?i=github" /></a>
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prince-kumar-06233a28b/)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sukheprince27@gmail.com)
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/procodes27)
 </p>
+
 
 ---
 
