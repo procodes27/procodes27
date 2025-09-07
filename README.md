@@ -1,23 +1,56 @@
-🚀 Hi, I’m Prince Kumar 👋
-💻 Aspiring Software Developer | 🎨 Frontend Enthusiast | ☁️ Cloud & AI Learner
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"> </p>
-🔥 About Me
+<!-- Profile README -->
 
-🎓 B.Tech CSE (3rd Year) Student
+<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+<h3 align="center">💻 Aspiring Full-Stack Developer | 🎨 Frontend Enthusiast | ☁️ Cloud & AI Learner</h3>
 
-🌱 Currently learning JavaScript, Firebase, React, and Full-Stack Development
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00BFFF&center=true&vCenter=true&width=550&height=60&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%26+building+projects;Currently+learning+Full+Stack+Development;Open+Source+Contributor+%F0%9F%9A%80" />
+</p>
 
-💡 Building projects like Weather App, Recipe Finder, Spotify Clone, Media Player, and Portfolio Website
+---
 
-📌 Goal: Become a Full-Stack Developer and contribute to Open Source
+## 🔥 About Me  
+- 🎓 B.Tech CSE (3rd Year) Student  
+- 🌱 Currently learning **JavaScript, Firebase, React, and Full-Stack Development**  
+- 💡 Projects: **Weather App, Recipe Finder, Spotify Clone, Media Player, Portfolio Website**  
+- 📌 Goal: Become a **Full-Stack Developer** & contribute to **Open Source**  
+- ⚡ Fun fact: I debug more than I code 😅  
 
-⚡ Fun fact: I debug more than I code 😅
+---
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,firebase,git,github,cpp,java,python,vscode&perline=7" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PrinceKumar&show_icons=true&theme=tokyonight" alt="stats" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceKumar&theme=tokyonight" alt="streak" height="160"/> </p>
-🌎 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://github.com/PrinceKumar"><img src="https://skillicons.dev/icons?i=github" /></a> </p>
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,firebase,git,github,cpp,java,python,mysql,vscode&perline=7" />
+</p>
 
-✨ "Code. Build. Learn. Repeat." ✨
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=procodes27&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=procodes27&theme=radical" alt="streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=procodes27&layout=compact&theme=radical" alt="langs" height="165"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/procodes27/procodes27/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌎 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/procodes27"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+<p align="center">✨ "Code. Build. Learn. Repeat." ✨</p>
