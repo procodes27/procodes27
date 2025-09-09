@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+Prince+Kumar;Welcome+to+my+GitHub+profile;Full+Stack+Developer+🚀;Open+Source+Enthusiast" />
 </p>
 
+<p align="center">
+  <img src="assets/animation.gif" alt="Coding Animation" width="400"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me  
